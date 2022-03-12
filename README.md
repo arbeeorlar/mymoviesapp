@@ -1,2 +1,2 @@
 # mymoviesapp
-MVVM, LiveData, Coroutine, Hilt, Flow,
+Implementation of MVVM, LiveData, Coroutine, Hilt, Flow,
