@@ -1,0 +1,6 @@
+com/app/mymoviesapp/databinding/ItemLayoutBinding.java
+ com.app.mymoviesapp.databinding.ItemLayoutBinding
+com/app/mymoviesapp/BuildConfig.java
+ com.app.mymoviesapp.BuildConfig
+com/app/mymoviesapp/databinding/ActivityMainBinding.java
+ com.app.mymoviesapp.databinding.ActivityMainBinding
